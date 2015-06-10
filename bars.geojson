@@ -6,16 +6,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.039882,
-          38.898321
+          7.4579,51.5005
         ]
       },
       "properties": {
         "marker-symbol": "bar",
-        "name": "The Exchange",
-        "address": "1719 G St NW"
+        "name": "Blackfin",
+        "address": "1620 I St NW"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.070275,
+          38.906094
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "The Tombs",
+        "address": "1226 36th St NW"
       }
     }
-    
   ]
 }
