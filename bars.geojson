@@ -1264,6 +1264,186 @@
           51.468266728739394
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0416f9",
+        "marker-size": "medium",
+        "marker-symbol": "rail-metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.491323947906493,
+          51.502612031433955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0416f9",
+        "marker-size": "medium",
+        "marker-symbol": "rail-metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.497975826263427,
+          51.503627148280636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0416f9",
+        "marker-size": "medium",
+        "marker-symbol": "rail-metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.50741720199585,
+          51.50379410612286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0416f9",
+        "marker-size": "medium",
+        "marker-symbol": "rail-metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.514594793319702,
+          51.50385421079633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0416f9",
+        "marker-size": "medium",
+        "marker-symbol": "rail-metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.521804571151733,
+          51.50501621890083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0416f9",
+        "marker-size": "medium",
+        "marker-symbol": "rail-metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.53462553024292,
+          51.50738021288773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0416f9",
+        "marker-size": "medium",
+        "marker-symbol": "rail-metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.544656991958618,
+          51.50788104332645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0416f9",
+        "marker-size": "medium",
+        "marker-symbol": "rail-metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.546877861022949,
+          51.50486262182795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0416f9",
+        "marker-size": "medium",
+        "marker-symbol": "rail-metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.548969984054565,
+          51.50253188966721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0416f9",
+        "marker-size": "medium",
+        "marker-symbol": "rail-metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5506651401519775,
+          51.501029205444624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0416f9",
+        "marker-size": "medium",
+        "marker-symbol": "rail-metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.556072473526001,
+          51.49345492276977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0416f9",
+        "marker-size": "medium",
+        "marker-symbol": "rail-metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.554452419281005,
+          51.497255579962356
+        ]
+      }
     }
   ]
 }
